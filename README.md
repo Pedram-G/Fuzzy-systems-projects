@@ -1,5 +1,5 @@
 # Fuzzy-systems-projects
-Implementation of 2 articles in MATLAB related to fuzzy systems
+Implementation of 3 articles in MATLAB related to fuzzy systems
 
 ## Uploaded projects include the following:
 - Reference Paper
